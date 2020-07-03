@@ -4,13 +4,13 @@ Machine learning is a growing field in computer science and data analysis. As a 
 
 ## Supervised Learning
 
-One of the first and simplest methods for machine learning is supervised learning. This method trains algorithms in recognizing certain patterns or outcomes. In supervised learning, the whole labeled data set is presented to the machine. In a problem, the final answer is given so that the machine can view the progression of the data. The machine continues to train with similar data sets until it calculates the desired outcome. When presented with a new data set it will use the same patterns to find the answer. The two main categories of supervised learning are classification and regression. 
+One of the first and simplest methods for machine learning is supervised [https://builtin.com/data-science/supervised-learning-python] learning. This method trains algorithms in recognizing certain patterns or outcomes. In supervised learning, the whole labeled data set is presented to the machine. In a problem, the final answer is given so that the machine can view the progression of the data. The machine continues to train with similar data sets until it calculates the desired outcome. When presented with a new data set it will use the same patterns to find the answer. The two main categories of supervised learning are classification and regression. 
 
 Classification is the linear organization of data into separate categories. Such as cars that are free of damage and cars that are wrecked. Machine learning is also capable of a multi-classification organization. In the example that it organized wrecked cars, it could also note the location of the damage. Regression uses statistical data to predict the correlation between independent and dependent points. An example of this would be using a polynomial or logarithmic best fit line to predict a result. Some applications of supervised learning are finding test scores, vector calculations, and other simplistic linear equations.  
 
 ## Unsupervised learning
 
-Where supervised learning is using all labeled parts, unsupervised learning has little to no labeled data. Unsupervised machine learning is independent in the way it organizes data. Even with the same data, the machine may organize the information with different methods. 
+Where supervised learning is using all labeled parts, unsupervised learning has little to no labeled data. Unsupervised [https://builtin.com/data-science/unsupervised-learning-python] machine learning is independent in the way it organizes data. Even with the same data, the machine may organize the information with different methods. 
 
 The first step for unsupervised learning is first defining the information. Then integrating the information into a decision-making process for better efficiency. To perform an analysis, it is typically done in two different fashions: clustering and dimensionality reduction. 
 
