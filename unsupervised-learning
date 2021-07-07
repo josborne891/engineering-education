@@ -1,0 +1,27 @@
+# Varying Levels of Supervised Machine Learning
+ 
+Machine learning is a growing field in computer science and data analysis. As a project gets more complex it can be difficult to apply human oversight to every operation. Unsupervised learning is quickly replacing the need for human analysis. Machine learning may be more independent, but it is still important to know the varying levels of supervised learning. 
+
+## Supervised Learning
+
+One of the first and simplest methods for machine learning is supervised [https://builtin.com/data-science/supervised-learning-python] learning. This method trains algorithms in recognizing certain patterns or outcomes. In supervised learning, the whole labeled data set is presented to the machine. In a problem, the final answer is given so that the machine can view the progression of the data. The machine continues to train with similar data sets until it calculates the desired outcome. When presented with a new data set it will use the same patterns to find the answer. The two main categories of supervised learning are classification and regression. 
+
+Classification is the linear organization of data into separate categories. Such as cars that are free of damage and cars that are wrecked. Machine learning is also capable of a multi-classification organization. In the example that it organized wrecked cars, it could also note the location of the damage. Regression uses statistical data to predict the correlation between independent and dependent points. An example of this would be using a polynomial or logarithmic best fit line to predict a result. Some applications of supervised learning are finding test scores, vector calculations, and other simplistic linear equations.  
+
+## Unsupervised learning
+
+Where supervised learning is using all labeled parts, unsupervised learning has little to no labeled data. Unsupervised [https://builtin.com/data-science/unsupervised-learning-python] machine learning is independent in the way it organizes data. Even with the same data, the machine may organize the information with different methods. 
+
+The first step for unsupervised learning is first defining the information. Then integrating the information into a decision-making process for better efficiency. To perform an analysis, it is typically done in two different fashions: clustering and dimensionality reduction. 
+
+Clustering [https://www.section.io/engineering-education/clustering-algorithms/] is the process of finding correlations between data points and identifying these relations to certain groups. Clustering is simple in its method, but capable of handling large amounts of data. There are many methods for clustering but is a topic that should be an independent search. Dimensionality reduction takes the information and simplifies it to the most important parts. It most cases the information is only a fraction of the total, and the rest is counted as redundant. A reduction is also a helpful tool for compressing the size of the data. 
+
+One of the benefits of unsupervised learning is it can compute non-linear problems. This is especially helpful since many real-world problems are rarely linear. These complicated problems may be solved at a loss for accuracy. There are also challenges in verifying the outcome when there are no labels provided. When unsupervised learning is applied it can make associations that can be introduced to finding more correlations as a base for calculating the probability of certain events. This is helpful for things like anomaly detection or finding the demand rate for a new purchase item.
+
+## Semi-Supervised Learning
+
+Semi-supervised [https://medium.com/inside-machine-learning/placeholder-3557ebb3d470] learning is classified as a mixture of both learning methods. Where there is only partial labeling of the information. Labeling all information can prove to be expensive. By using a mixture of both learning methods it may be beneficial to predict structures. This method has many real-world applications. Such audio files translated by a user, or protein classification by a scientist directing the learning process.
+
+## Choosing the learning method
+
+When it comes to deciding which method to use it will depend on the amount of labeled data available. If there is no labeled data available use unsupervised learning. If all data is labeled choose supervised learning. The tricky part is knowing how to use semi-supervised learning, which operates in the middle. In semi-supervised learning, it is a good habit to only allow a small majority of the information to account for all the labeled data. Think of it as giving a slight hint. The smaller the portion of labeled data there is the more accurate the learning will be. Too much information and the results will have lower accuracy. A small part of labeled information is introduced to direct the flow of results, but never to define it. In the end it up to the user on how much information to refine the results. 
